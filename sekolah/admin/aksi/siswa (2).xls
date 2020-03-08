@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <table>
+    <thead>
+        <tr>
+                        <th>No</th>
+                            <th>ID Siswa</th>
+                            <th>NIS</th>
+                            <th>Nama</th>
+                            <th>Tanggal Lahir</th>
+                            <th>Alamat</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><tr><td>1</td><td>30</td><td>181101</td><td>Reksa Ramadhan</td><td>2017-10-15</td><td>Bandung</td></td></tr>    </tbody>
+    </table>
+  
+  <script src="../asset/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../asset/js/bootstrap.min.js"></script>
+  </body>
+</html>

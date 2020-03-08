@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <table border="1">
+        <tr>
+                        <th>No</th>
+                            <th>ID Siswa</th>
+                            <th>NIS</th>
+                            <th>Nama</th>
+                            <th>Tanggal Lahir</th>
+                            <th>Alamat</th>
+        </tr>
+        <tr><tr><td>1</td><td>27</td><td>181101</td><td>Audy</td><td>2020-02-03</td><td>Bandung</td></td></tr><tr><tr><td>2</td><td>29</td><td>181102</td><td>Budy</td><td>2020-02-04</td><td>Jakarta</td></td></tr>    </table>
+  
+  <script src="../asset/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../asset/js/bootstrap.min.js"></script>
+  </body>
+</html>

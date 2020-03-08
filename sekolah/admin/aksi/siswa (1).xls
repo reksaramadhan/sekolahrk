@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <table border="1">
+    <thead>
+        <tr>
+                            <th>NIS</th>
+                            <th>Nama</th>
+                            <th>Tanggal Lahir</th>
+                            <th>Alamat</th>
+        </tr>
+    </thead>
+    <tbody>
+            </tbody>
+    </table>
+  
+  <script src="../asset/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../asset/js/bootstrap.min.js"></script>
+  </body>
+</html>
